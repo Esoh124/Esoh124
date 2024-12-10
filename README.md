@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 [![Esoh124's github stats](https://github-readme-stats.vercel.app/api?username=Esoh124)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esoh124&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Esoh124?pet-id=1" width="1000" height="120"/>
+</a>
